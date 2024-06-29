@@ -41,7 +41,9 @@
 ### 5. 데이터 시각화
 - Python의 Folium 라이브러리를 이용하여 seoul_geo.json파일로 우선 서울을 지도로 띄운 뒤
 - 각 데이터를 위에 덧붙여서 아래와 같이 누적된 map을 만들었습니다.
+
 ![image](https://github.com/yunjaeekim/Contest/assets/133327199/6264ba64-47aa-4f63-9ba9-6a37a57a590f)
+
 
 ### 6. 분석 및 시사점
 - 실제로 시각화 해보니 풋살장들이 여러 곳에서 군집을 형성하고 있다는 사실을 발견했습니다.
