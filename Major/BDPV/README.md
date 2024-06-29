@@ -23,7 +23,7 @@
 - 서울 인구밀도(인구통계) 데이터 : https://data.seoul.go.kr/dataList/10837/S/2/datasetView.do
 - 공영 주차장 데이터 : https://data.seoul.go.kr/dataList/OA-13122/S/1/datasetView.do
 - 지하철 승하차 데이터 : https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do
-                      + station_coordinate.json 파일을 통해 지하철역 좌표 데이터 수집
+- => station_coordinate.json 파일을 통해 지하철역 좌표 데이터 수집
 - 민간/공공 풋살장 데이터 : 크롤링은 너무 오래걸릴거 같아 구글에서 하나하나 검색해서 수집했습니다.
 - 각 행정동 별 좌표 : seoul_geo.json (깃허브에서 추출)
 
