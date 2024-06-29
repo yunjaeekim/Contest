@@ -19,13 +19,13 @@
 4. 주변에 주차 공간이 있는 곳이 없는 곳보다 매출이 클 것이다.
 
 ### 3. 데이터 수집
-서울 유동인구(생활인구) 데이터 : https://data.seoul.go.kr/dataList/OA-15377/S/1/datasetView.do
-서울 인구밀도(인구통계) 데이터 : https://data.seoul.go.kr/dataList/10837/S/2/datasetView.do
-공영 주차장 데이터 : https://data.seoul.go.kr/dataList/OA-13122/S/1/datasetView.do
-지하철 승하차 데이터 : https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do
+- 서울 유동인구(생활인구) 데이터 : https://data.seoul.go.kr/dataList/OA-15377/S/1/datasetView.do
+- 서울 인구밀도(인구통계) 데이터 : https://data.seoul.go.kr/dataList/10837/S/2/datasetView.do
+- 공영 주차장 데이터 : https://data.seoul.go.kr/dataList/OA-13122/S/1/datasetView.do
+- 지하철 승하차 데이터 : https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do
                       + station_coordinate.json 파일을 통해 지하철역 좌표 데이터 수집
-민간/공공 풋살장 데이터 : 크롤링은 너무 오래걸릴거 같아 구글에서 하나하나 검색해서 수집했습니다.
-각 행정동 별 좌표 : seoul_geo.json (깃허브에서 추출)
+- 민간/공공 풋살장 데이터 : 크롤링은 너무 오래걸릴거 같아 구글에서 하나하나 검색해서 수집했습니다.
+- 각 행정동 별 좌표 : seoul_geo.json (깃허브에서 추출)
 
 ### 4. 데이터 전처리
 1) 인구 데이터
