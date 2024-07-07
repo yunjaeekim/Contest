@@ -25,7 +25,7 @@
 
 ### 📊 5. 데이터 시각화
 - 각 단어들의 빈도를 계산하여 WordCloud 생성
-<img src="https://github.com/yunjaeekim/Contest/assets/133327199/3b7024b7-4e41-46c5-bcc3-18f90b00067b" alt="Example Image" width="400" height="400"/>
+<img src="https://github.com/yunjaeekim/Contest/assets/133327199/3b7024b7-4e41-46c5-bcc3-18f90b00067b" alt="Example Image" width="400" height="300"/>
 
 - Bag-of-word를 통해 각 문서의 단어들을 벡터화 => pyLDAvis를 통해 각 문서의 토픽 15개 추출
 - 
