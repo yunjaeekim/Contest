@@ -48,8 +48,6 @@
 3️⃣ 2개의 layer를 동시에 같은 지도 내에 시각화(초록 - 비산먼지 / 빨강 - 결합 layer)
 <img src="https://github.com/yunjaeekim/Contest/assets/133327199/3c63b140-814e-47f8-a740-2a2aecf27beb" alt="Example Image" width="400" height="300"/>
 
- 
-   
    ##### 💡 위의 그림에서 2개의 layer가 교차되는 교집합만 추출하고 이를 '비산먼지 위험 후보군'으로 설정
   
 4️⃣ 버스 승하차 인원을 유동인구라고 가정 후 QGIS에 올려 heatmap 시각화 후 인구가 많은 상위 격자만 추출
@@ -60,9 +58,11 @@
 
 ##### 유형1. 긴급
 - 비산먼지 발생량이 매우 많은데, 해당 지역 내외의 유동 인구도 많아서 타격을 그대로 입는 유형
+<img src="https://github.com/yunjaeekim/Contest/assets/133327199/3a19b0ad-26a1-41c2-88ee-d6569b0d1d27" alt="Example Image" width="400" height="300"/>
 
 ##### 유형2. 위험
 - 비산먼지가 많아 대처해야 하지만, 아직 사람들이 많이 다니지 않아 유형 1보다는 우선순위가 낮은 유형
+<img src="https://github.com/yunjaeekim/Contest/assets/133327199/58cf399f-9c31-4024-8e44-a4ece575408a" alt="Example Image" width="400" height="300"/>
 
 ##### 유형3. 주의 (추후 최종 후보군에서는 배제)
 - 비산먼지는 적지만 유동 인구가 많아 꾸준히 비산먼지 발생량을 모니터링하며 경계해야 하는 유형
