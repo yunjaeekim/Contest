@@ -47,13 +47,13 @@
 
   3️⃣ 2개의 layer를 동시에 같은 지도 내에 시각화(초록 - 비산먼지 / 빨강 - 결합 layer)
 
-    <img src="https://github.com/yunjaeekim/Contest/assets/133327199/3c63b140-814e-47f8-a740-2a2aecf27beb" alt="ExampleImage" width="400" height="300"/>
+  <img src="https://github.com/yunjaeekim/Contest/assets/133327199/3c63b140-814e-47f8-a740-2a2aecf27beb" alt="Example Image" width="400" height="300"/>
 
      💡 위의 그림에서 2개의 layer가 교차되는 교집합만 추출하고 이를 '비산먼지 위험 후보군'으로 설정
   
   4️⃣ 버스 승하차 인원을 유동인구라고 가정 후 QGIS에 올려 heatmap 시각화 후 인구가 많은 상위 격자만 추출
 
-    <img src="https://github.com/yunjaeekim/Contest/assets/133327199/b20f20d7-370b-4689-8510-4ee176e44fae" alt="ExampleImage" width="400" height="300"/>
+  <img src="https://github.com/yunjaeekim/Contest/assets/133327199/b20f20d7-370b-4689-8510-4ee176e44fae" alt="Example Image" width="400" height="300"/>
 
   5️⃣ 최종적으로 산출한 비산먼지 위험 후보군과 유동인구 위험지역 후보군의 교집합, 차집합을 통해 총 4개의 취약지역 유형 선정
 
