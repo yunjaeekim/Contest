@@ -46,7 +46,7 @@
 2️⃣ QGIS에 시각화된 비산먼지 layer 중에서 농도가 높은 상위 격자만 추출
 
 3️⃣ 2개의 layer를 동시에 같은 지도 내에 시각화(초록 - 비산먼지 / 빨강 - 결합 layer)
-<img src="[https://github.com/yunjaeekim/Contest/assets/133327199/3c63b140-814e-47f8-a740-2a2aecf27beb]" alt="Example Image" width="300" height="200"/>
+<img src="https://github.com/yunjaeekim/Contest/assets/133327199/3c63b140-814e-47f8-a740-2a2aecf27beb" alt="Example Image" width="300" height="200"/>
 
  
    
