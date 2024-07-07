@@ -53,7 +53,7 @@
   
 4️⃣ 버스 승하차 인원을 유동인구라고 가정 후 QGIS에 올려 heatmap 시각화 후 인구가 많은 상위 격자만 추출
 
-  ![image](https://github.com/yunjaeekim/Contest/assets/133327199/b20f20d7-370b-4689-8510-4ee176e44fae)
+  <img src="https://github.com/yunjaeekim/Contest/assets/133327199/b20f20d7-370b-4689-8510-4ee176e44fae" alt="Example Image" width="300" height="200"/>
 
 5️⃣ 최종적으로 산출한 비산먼지 위험 후보군과 유동인구 위험지역 후보군의 교집합, 차집합을 통해 총 4개의 취약지역 유형 선정
 
