@@ -28,7 +28,7 @@
 <img src="https://github.com/yunjaeekim/Contest/assets/133327199/3b7024b7-4e41-46c5-bcc3-18f90b00067b" alt="Example Image" width="400" height="300"/>
 
 - Bag-of-word를 통해 각 문서의 단어들을 벡터화 => pyLDAvis를 통해 각 문서의 토픽 15개 추출
-- 
+  
 <img src="https://github.com/yunjaeekim/Contest/assets/133327199/6ffe95aa-142f-447e-9a43-4404475ca4e0" alt="Example Image" width="800" height="400"/>
 
 ### 📝 6. 시사점
