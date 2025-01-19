@@ -164,7 +164,7 @@ st.header('0. Overview')
 
 #Visualization
 if len(option01) == 0:
-    st.set_option('deprecation.showPyplotGlobalUse', False)
+    #st.set_option('deprecation.showPyplotGlobalUse', False)
     col1, col2 = st.columns(2)
     with col1:
         st.write('구 별 평균 관리비(월)') 
